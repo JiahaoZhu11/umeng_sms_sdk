@@ -8,7 +8,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  umeng_sms_sdk: 1.0.0
+  umeng_sms_sdk: ^1.0.0
 ```
 
 ## Usage
